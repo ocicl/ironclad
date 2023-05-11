@@ -5,6 +5,6 @@ your library.
 
 |---------+------------------------------------------------------------------------------|
 | source  | file:https://github.com/sharplispers/ironclad/archive/refs/tags/v0.58.tar.gz |
-| commit  | 0.58                                                                         |
+| version | 0.58                                                                         |
 | systems | ironclad ironclad-text                                                       |
 |---------+------------------------------------------------------------------------------|
