@@ -1,10 +1,10 @@
-* documentation-utils
+* ironclad
 
 This is a small library to help you with managing the docstrings for
 your library.
 
-|---------+------------------------------------------------------------------------------|
-| source  | file:https://github.com/sharplispers/ironclad/archive/refs/tags/v0.58.tar.gz |
-| version | 0.58                                                                         |
-| systems | ironclad ironclad-text                                                       |
-|---------+------------------------------------------------------------------------------|
+|---------+----------------------------------------------|
+| source  | https://github.com/sharplispers/ironclad.git |
+| commit  | 9868a8e                                      |
+| systems | ironclad ironclad-text                       |
+|---------+----------------------------------------------|
