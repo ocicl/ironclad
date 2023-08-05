@@ -1,10 +1,9 @@
 * ironclad
 
-This is a small library to help you with managing the docstrings for
-your library.
+A cryptographic toolkit written in Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/sharplispers/ironclad.git |
-| commit  | 9868a8e                                          |
+| commit  | 6da010f
 | systems | ironclad ironclad-text                           |
 |---------+--------------------------------------------------|
