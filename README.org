@@ -4,6 +4,6 @@ A cryptographic toolkit written in Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/sharplispers/ironclad.git |
-| commit  | 6da010f
+| commit  | 6da010f                                          |
 | systems | ironclad ironclad-text                           |
 |---------+--------------------------------------------------|
